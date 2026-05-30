@@ -1,3 +1,7 @@
+---
+name: awesome-design-md
+description: A Claude Skill to browse and reference awesome design markdown resources.
+---
 # awesome-design-md
 
 ## Description
